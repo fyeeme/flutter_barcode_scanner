@@ -3,7 +3,7 @@
 **fork from [AmolGangadhare' flutter_barcode_scanner](https://github.com/AmolGangadhare/flutter_barcode_scanner)**
 
 ## feature
- update system navigate back logic for android,which provider double click to quit app
+update ui for ios and android
 
 A plugin for Flutter apps that adds barcode scanning support on both Android and iOS.
 
